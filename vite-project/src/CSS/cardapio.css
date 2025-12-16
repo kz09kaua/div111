@@ -1,0 +1,122 @@
+.cardapio111{
+    margin-top: 5rem;
+
+}
+
+.tituloprincipal{
+    color: #1f9230;
+        border-bottom: 2px solid #87BD8F;
+            width: 20rem;
+                margin-bottom: 3rem;
+                    margin-top: 3rem;
+
+}
+
+.cardapio222{
+    background-color: #F1F8E9;
+        height: 30rem;
+            
+    
+       
+            
+
+
+
+}
+
+.cardapio333{
+background-color: #F1F8E9;
+    margin-top: 4rem;
+        height: 25rem;
+            display: flex;
+                justify-content: center;
+                    align-items: center;
+                        align-content: center;
+                            text-align: center;
+                            
+        
+
+}
+
+.tatu{
+     display: flex;
+        justify-content: center;
+            text-align: center;
+
+}
+
+.divsobrio{
+         display: flex;
+            justify-content: center;
+                align-items: center;
+                    align-content: center;
+                        text-align: center;
+                            
+        
+
+
+}
+
+
+
+
+.cards1010{
+    width: 17rem;
+        height: 21rem;
+            background-color: white;
+                margin-left: 3rem;
+                
+
+                
+            
+
+
+
+}
+
+.partedecima{
+    background-color: #C8E6CA;
+        height: 39%;
+            width: 100%;
+                display: flex;
+                     justify-content: center;
+                        align-items: center;
+                            font-size: 1.5rem;
+                                color: #2C6637;
+                                    
+
+
+}
+
+.partedebaixo{
+    display: flex;
+        display: block;
+            justify-content: center;
+                align-items: center;
+                    align-content: center;
+                        text-align: center;
+                            
+
+}
+
+.h5parte{
+    color: #949493;
+
+
+
+}
+
+.h2parte{
+    color: #D6684A;
+
+}
+
+.buttumbaixo{
+    background-color: #3D7B47;
+        border: none;
+            width: 13rem;
+                height: 2.5rem;
+                    color: white;
+                        font-size: 1rem;
+
+}

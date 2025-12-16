@@ -1,0 +1,105 @@
+.div111{
+    background-color: #E7F6E8;
+        margin: 0px;
+            display: flex;
+                justify-content: center;
+                    align-items: center; 
+                        flex-direction: column;
+                            height: 19rem;
+                                border-bottom: 2px solid #3F9F4D;
+
+
+}
+
+.div222{
+    margin: 0px;
+        color: #16552D;
+       
+
+
+}
+
+.div333{
+    color: #438554;
+
+}
+
+.div555{
+    display: flex;
+        justify-content: center;
+            align-items: center;
+                flex-direction: column;
+}
+
+.botaoplanos{
+        border-radius: 4rem;
+            background-color: #3F9F4D;
+                border: none;
+                    color: white;
+                        width: 7rem;
+                            height: 2.2rem;
+                                margin-top: 1rem;
+                                    
+
+}
+
+.div1010{
+    color: #16552D;
+        border-bottom: 2px solid #3F9F4D;
+            margin-top: 2rem;
+            margin-bottom: 50px;
+                padding-bottom: 0.5rem;
+
+}
+
+.divCards{
+    border: 1px solid rgb(194, 186, 186);
+        margin-left: 4rem;
+            border-radius: 3px;
+                width: 15rem;
+                    height: 16rem;
+                         display: flex;
+                            justify-content: center;
+                                align-items: center; 
+                                    flex-direction: column;
+                                    
+                        
+                
+
+
+
+}
+
+.div1111{
+    display: flex;
+        justify-content: center;
+   
+        
+
+       
+
+
+
+}
+
+.cards{
+    color: #80C786;
+
+}
+
+.pmais{
+    text-align: center;
+    margin-top: 1px;
+
+
+}
+
+.divpcp{
+    display: flex;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}

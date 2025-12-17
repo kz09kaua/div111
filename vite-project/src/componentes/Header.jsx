@@ -1,10 +1,11 @@
 import "/src/CSS/header.css"
-
+import comida from "../assets/imgcomida.png";
 function Header() {
   return(
     <header className="header-style">
       
-      <div>
+      <div className="centerinicio">
+        <img src={comida} alt="comida" style={{ width: "2rem", height: "2rem",  }} />
         <h2>Restaurante Popular Saudável</h2>
         </div>
     

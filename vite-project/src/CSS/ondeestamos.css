@@ -1,0 +1,51 @@
+.fundo {
+  background-color: #f1f8e9;
+    margin-top: 6rem;
+        padding-bottom: 4rem;
+}
+
+/* TÍTULO */
+.onde {
+  display: flex;
+    justify-content: center;
+}
+
+.estamos {
+  color: #7bc489;
+    border-bottom: 2px solid #b5e7bd;
+        width: 12.7rem;
+            font-size: 2rem;
+                margin-bottom: 1.6rem;
+                    text-align: center;
+}
+
+
+.onde2 {
+  display: flex;
+        justify-content: center;
+}
+
+.h2para {
+  margin: 0;
+    color: #388546;
+        text-align: center;
+}
+
+
+.mapcontainer {
+  width: 100%;
+    display: flex;
+        justify-content: center;
+            margin-top: 3rem;
+}
+
+.mapimg {
+  width: 70rem;
+    height: 30rem;
+        border: 0;
+            border-radius: 12px;
+                display: block;
+}
+
+
+

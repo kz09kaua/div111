@@ -1,6 +1,44 @@
 .h2nos{
-    color: #161717;
-        border-bottom: #83BA8C;
+    color: #5b9265;
+         border-bottom: 2px solid #b5e7bd;
+            width: 20rem;
+                font-size: 2rem;
             
+            
+
+}
+
+.centralizar{
+     display: flex;
+        justify-content: center;
+            margin-top: 3rem;
+
+
+}
+
+.textnos{
+    display: flex;
+        justify-content: center;
+            text-align: center;
+                font-size: 1.3rem;
+                          
+
+}
+
+.historiaul{
+    list-style-type: none;
+        margin-left: 3rem;
+             font-size: 1.29rem;
+                color:#0a8f1e;
+             
+       
+
+
+}
+
+.ulprincipal{
+     display: flex;
+        justify-content: center;
+            margin-top: 3.5rem;
 
 }

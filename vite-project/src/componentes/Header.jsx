@@ -13,19 +13,19 @@ function Header() {
           {" "}
           Início
         </a>
-        <a href="#sobre" className="nav-link">
+        <a href="#vantagens" className="nav-link">
           {" "}
           Vantagens
         </a>
-        <a href="#produtos" className="nav-link">
+        <a href="#Cardapio" className="nav-link">
           {" "}
           Cardápio
         </a>
-        <a href="#contato" className="nav-link">
+        <a href="#SobreNos" className="nav-link">
           {" "}
           Sobre Nós
         </a>
-        <a href="#contato" className="nav-link">
+        <a href="#Localizacao" className="nav-link">
           {" "}
           Localização
         </a>

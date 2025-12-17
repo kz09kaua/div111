@@ -3,7 +3,7 @@ import abacate from "../assets/imgabacate.png";
 
 function PageVantagens() {
   return (
-    <div>
+    <div id="vantagens">
       <div className="div111">
         <div className="div555">
           <h1 className="div222">

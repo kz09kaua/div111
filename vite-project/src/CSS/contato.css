@@ -1,0 +1,46 @@
+.h2contato{
+    color: #5b9265;
+         border-bottom: 2px solid #b5e7bd;
+            width: 6em;
+                font-size: 2rem;
+}
+
+.center{
+     display: flex;
+        justify-content: center;
+            text-align: center;
+
+}
+
+.conteinerpai{
+     display: flex;
+        justify-content: center;
+            text-align: center;
+                display: block;
+}
+
+.divSocoro{
+    width: 60rem;
+        height: 3rem;
+            margin: 0.6rem;
+                color: rgb(196, 196, 196);
+                    font-size: 1rem;
+                    
+
+}
+
+.button123{
+    background-color: #E55A19;
+     width: 60.5rem;
+        height: 3rem;
+            margin: 0.6rem;
+                border: 0px;
+                    color: white;
+                        font-size: 1rem;
+
+}
+
+.conteiner{
+    margin-bottom: 6rem;
+
+}

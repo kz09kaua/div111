@@ -1,0 +1,26 @@
+.fundofooter{
+    background-color: #0F5D21;
+        height: 10rem;
+            display: flex;
+                justify-content: center;
+                    align-items: center;
+                        align-content: center;
+                            text-align: center;
+                                display: block;
+                            
+
+
+}
+
+.footer12{
+    color: white;
+
+}
+
+
+.footer333{
+    color: white;
+        margin-top: 1.5rem;
+
+
+}
